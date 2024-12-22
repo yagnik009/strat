@@ -20,7 +20,7 @@ This is a simple Spring Boot application that allows users to take a quiz. Users
 - **Get a random question**: `GET /api/quiz/random-question`
 - **Submit an answer**: `POST /api/quiz/submit`
 - **Get user statistics**: `GET /api/quiz/stats`
-- **Add Questions Endpoint**:POST /api/AddQuestion'
+- **Add Questions endpoint**:POST/api/AddQuestion'
 
 ## Assumptions
 - The database is seeded with sample questions and a user.
